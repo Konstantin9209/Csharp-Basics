@@ -1,12 +1,12 @@
-namespace T02;
-
-internal class RadiansToDegrees_02
+namespace T01
 {
-    static void Main(string[] args)
+    class USDtoBGN
     {
-        double radians = double.Parse(Console.ReadLine());
-        double deg = radians * 180 / Math.PI;
-
-        Console.WriteLine(deg);
+        static void Main(string[] args)
+        {
+            double usd = double.Parse(Console.ReadLine());
+            double bgn = usd * 1.79549;
+            Console.WriteLine(bgn);
+        }
     }
 }
