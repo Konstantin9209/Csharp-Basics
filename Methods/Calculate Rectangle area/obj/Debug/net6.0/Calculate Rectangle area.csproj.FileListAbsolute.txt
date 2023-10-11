@@ -1,0 +1,15 @@
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\bin\Debug\net6.0\Calculate Rectangle area.exe
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\bin\Debug\net6.0\Calculate Rectangle area.deps.json
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\bin\Debug\net6.0\Calculate Rectangle area.runtimeconfig.json
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\bin\Debug\net6.0\Calculate Rectangle area.dll
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\bin\Debug\net6.0\Calculate Rectangle area.pdb
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\obj\Debug\net6.0\Calculate Rectangle area.csproj.AssemblyReference.cache
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\obj\Debug\net6.0\Calculate Rectangle area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\obj\Debug\net6.0\Calculate Rectangle area.AssemblyInfoInputs.cache
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\obj\Debug\net6.0\Calculate Rectangle area.AssemblyInfo.cs
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\obj\Debug\net6.0\Calculate Rectangle area.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\obj\Debug\net6.0\Calculate Rectangle area.dll
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\obj\Debug\net6.0\refint\Calculate Rectangle area.dll
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\obj\Debug\net6.0\Calculate Rectangle area.pdb
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\obj\Debug\net6.0\Calculate Rectangle area.genruntimeconfig.cache
+C:\Users\Konstantin\source\repos\Methods\Calculate Rectangle area\obj\Debug\net6.0\ref\Calculate Rectangle area.dll
