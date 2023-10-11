@@ -1,0 +1,15 @@
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\bin\Debug\net6.0\SequenceOfNumbers.exe
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\bin\Debug\net6.0\SequenceOfNumbers.deps.json
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\bin\Debug\net6.0\SequenceOfNumbers.runtimeconfig.json
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\bin\Debug\net6.0\SequenceOfNumbers.dll
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\bin\Debug\net6.0\SequenceOfNumbers.pdb
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\obj\Debug\net6.0\SequenceOfNumbers.csproj.AssemblyReference.cache
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\obj\Debug\net6.0\SequenceOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\obj\Debug\net6.0\SequenceOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\obj\Debug\net6.0\SequenceOfNumbers.AssemblyInfo.cs
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\obj\Debug\net6.0\SequenceOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\obj\Debug\net6.0\SequenceOfNumbers.dll
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\obj\Debug\net6.0\refint\SequenceOfNumbers.dll
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\obj\Debug\net6.0\SequenceOfNumbers.pdb
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\obj\Debug\net6.0\SequenceOfNumbers.genruntimeconfig.cache
+C:\Users\Konstantin\source\repos\Loops\SequenceOfNumbers\obj\Debug\net6.0\ref\SequenceOfNumbers.dll
