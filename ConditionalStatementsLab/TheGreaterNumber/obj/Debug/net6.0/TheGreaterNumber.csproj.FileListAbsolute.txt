@@ -1,0 +1,15 @@
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\bin\Debug\net6.0\TheGreaterNumber.exe
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\bin\Debug\net6.0\TheGreaterNumber.deps.json
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\bin\Debug\net6.0\TheGreaterNumber.runtimeconfig.json
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\bin\Debug\net6.0\TheGreaterNumber.dll
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\bin\Debug\net6.0\TheGreaterNumber.pdb
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.csproj.AssemblyReference.cache
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.AssemblyInfoInputs.cache
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.AssemblyInfo.cs
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.dll
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\obj\Debug\net6.0\refint\TheGreaterNumber.dll
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.pdb
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\obj\Debug\net6.0\TheGreaterNumber.genruntimeconfig.cache
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\TheGreaterNumber\obj\Debug\net6.0\ref\TheGreaterNumber.dll

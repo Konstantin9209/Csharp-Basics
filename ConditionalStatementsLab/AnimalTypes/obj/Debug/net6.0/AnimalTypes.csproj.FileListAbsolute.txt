@@ -1,0 +1,15 @@
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\bin\Debug\net6.0\AnimalTypes.exe
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\bin\Debug\net6.0\AnimalTypes.deps.json
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\bin\Debug\net6.0\AnimalTypes.runtimeconfig.json
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\bin\Debug\net6.0\AnimalTypes.dll
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\bin\Debug\net6.0\AnimalTypes.pdb
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\obj\Debug\net6.0\AnimalTypes.csproj.AssemblyReference.cache
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\obj\Debug\net6.0\AnimalTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\obj\Debug\net6.0\AnimalTypes.AssemblyInfoInputs.cache
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\obj\Debug\net6.0\AnimalTypes.AssemblyInfo.cs
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\obj\Debug\net6.0\AnimalTypes.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\obj\Debug\net6.0\AnimalTypes.dll
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\obj\Debug\net6.0\refint\AnimalTypes.dll
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\obj\Debug\net6.0\AnimalTypes.pdb
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\obj\Debug\net6.0\AnimalTypes.genruntimeconfig.cache
+C:\Users\Konstantin\source\repos\FirstHelloWorldApp\AnimalTypes\obj\Debug\net6.0\ref\AnimalTypes.dll

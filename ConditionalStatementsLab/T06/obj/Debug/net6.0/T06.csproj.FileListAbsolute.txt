@@ -1,0 +1,15 @@
+C:\Users\Konstantin\source\repos\T06\bin\Debug\net6.0\T06.exe
+C:\Users\Konstantin\source\repos\T06\bin\Debug\net6.0\T06.deps.json
+C:\Users\Konstantin\source\repos\T06\bin\Debug\net6.0\T06.runtimeconfig.json
+C:\Users\Konstantin\source\repos\T06\bin\Debug\net6.0\T06.dll
+C:\Users\Konstantin\source\repos\T06\bin\Debug\net6.0\T06.pdb
+C:\Users\Konstantin\source\repos\T06\obj\Debug\net6.0\T06.csproj.AssemblyReference.cache
+C:\Users\Konstantin\source\repos\T06\obj\Debug\net6.0\T06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\source\repos\T06\obj\Debug\net6.0\T06.AssemblyInfoInputs.cache
+C:\Users\Konstantin\source\repos\T06\obj\Debug\net6.0\T06.AssemblyInfo.cs
+C:\Users\Konstantin\source\repos\T06\obj\Debug\net6.0\T06.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\T06\obj\Debug\net6.0\T06.dll
+C:\Users\Konstantin\source\repos\T06\obj\Debug\net6.0\refint\T06.dll
+C:\Users\Konstantin\source\repos\T06\obj\Debug\net6.0\T06.pdb
+C:\Users\Konstantin\source\repos\T06\obj\Debug\net6.0\T06.genruntimeconfig.cache
+C:\Users\Konstantin\source\repos\T06\obj\Debug\net6.0\ref\T06.dll
