@@ -1,0 +1,15 @@
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\bin\Debug\net6.0\Bomb numbers.exe
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\bin\Debug\net6.0\Bomb numbers.deps.json
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\bin\Debug\net6.0\Bomb numbers.runtimeconfig.json
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\bin\Debug\net6.0\Bomb numbers.dll
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\bin\Debug\net6.0\Bomb numbers.pdb
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\obj\Debug\net6.0\Bomb numbers.csproj.AssemblyReference.cache
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\obj\Debug\net6.0\Bomb numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\obj\Debug\net6.0\Bomb numbers.AssemblyInfoInputs.cache
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\obj\Debug\net6.0\Bomb numbers.AssemblyInfo.cs
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\obj\Debug\net6.0\Bomb numbers.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\obj\Debug\net6.0\Bomb numbers.dll
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\obj\Debug\net6.0\refint\Bomb numbers.dll
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\obj\Debug\net6.0\Bomb numbers.pdb
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\obj\Debug\net6.0\Bomb numbers.genruntimeconfig.cache
+C:\Users\Konstantin\source\repos\Arrays And Lists\Bomb numbers\obj\Debug\net6.0\ref\Bomb numbers.dll
